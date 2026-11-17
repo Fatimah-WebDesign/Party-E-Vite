@@ -1,0 +1,104 @@
+h1{
+    color: darkolivegreen;
+    font-style: italic; 
+    text-align-last: center;
+}
+h2{
+    color: darkolivegreen;
+    font-style: italic;
+    text-align-last: center;
+    
+}
+
+
+.monday{
+    position: absolute;
+    left: 237px;
+    top: 248px;
+    z-index: 10;
+    
+}
+.november{
+    position: absolute;
+    left: 290px;
+    top: 289px;
+    z-index: 10;
+}
+.time{
+    position: absolute;
+    left: 256px;
+    top: 333px;
+    z-index: 10;
+}
+.host{
+    position: absolute;
+    left: 287px;
+    top: 403px;
+    z-index: 10;
+}
+.name{
+    position: absolute;
+    left: 213px;
+    top: 439px;
+    z-index: 10;
+}
+.address{
+    position: absolute;
+    left: 156px;
+    top: 556px;
+    z-index: 10;
+}
+.jars{
+    position: absolute;
+    left: 187px;
+    top: 598px;
+    z-index: 10;
+}
+.link{
+    position: absolute;
+    left: 7px;
+    top: 740px;
+    z-index: 10;
+}
+.dance{
+    position: absolute;
+    left: 364px;
+    top: 170px;
+    z-index: 10;
+}
+.flower{
+    position: absolute;
+    left: 38px;
+    top: 222px;
+    z-index: 10;
+}
+.table{
+    position: absolute;
+    left: 1px;
+    top: 585px;
+    z-index: 10;
+}
+.info{
+     position: absolute;
+    left: 254px;
+    top: 590px;
+    z-index: 10;
+}
+.info2{
+     position: absolute;
+    left: 327px;
+    top: 636px;
+    z-index: 10;
+}
+.info3{
+     position: absolute;
+    left: 276px;
+    top: 678px;
+    z-index: 10;
+}
+.link{
+    color: darkolivegreen;
+    background-color: #c3c8a4;
+    text-align-last: end;
+    font-style: italic;
+}
