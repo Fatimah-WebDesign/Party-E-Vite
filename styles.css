@@ -102,3 +102,10 @@ h2{
     text-align-last: end;
     font-style: italic;
 }
+
+.container {
+    width: 500px;
+    height: 800px;
+    margin: auto;
+    position: relative;
+}
